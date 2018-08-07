@@ -13,3 +13,5 @@ Transfer Files in a LAN Environment
 
 功能较简易的局域网文件传输，VS MFC编写，对话框应用。
 利用socket传输文件，多线程
+
+目前用于南京工程学院某实验机房
